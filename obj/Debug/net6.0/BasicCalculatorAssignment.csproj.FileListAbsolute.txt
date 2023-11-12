@@ -1,0 +1,15 @@
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/bin/Debug/net6.0/BasicCalculatorAssignment
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/bin/Debug/net6.0/BasicCalculatorAssignment.deps.json
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/bin/Debug/net6.0/BasicCalculatorAssignment.runtimeconfig.json
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/bin/Debug/net6.0/BasicCalculatorAssignment.dll
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/bin/Debug/net6.0/BasicCalculatorAssignment.pdb
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/obj/Debug/net6.0/BasicCalculatorAssignment.csproj.AssemblyReference.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/obj/Debug/net6.0/BasicCalculatorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/obj/Debug/net6.0/BasicCalculatorAssignment.AssemblyInfoInputs.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/obj/Debug/net6.0/BasicCalculatorAssignment.AssemblyInfo.cs
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/obj/Debug/net6.0/BasicCalculatorAssignment.csproj.CoreCompileInputs.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/obj/Debug/net6.0/BasicCalculatorAssignment.dll
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/obj/Debug/net6.0/refint/BasicCalculatorAssignment.dll
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/obj/Debug/net6.0/BasicCalculatorAssignment.pdb
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/obj/Debug/net6.0/BasicCalculatorAssignment.genruntimeconfig.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/BasicCalculatorAssignment-master/BasicCalculatorAssignment/obj/Debug/net6.0/ref/BasicCalculatorAssignment.dll
